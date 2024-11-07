@@ -1,4 +1,4 @@
-# Project: Group Schedule Matching Algorithm
+# Project 2: Group Schedule Matching Algorithm
 Course: CPSC 335 - Algorithm Engineering (Fall 2024)
 
 Authors: Cyril Youssef, Jonathan Bird, Conrad Chu, Joseph Bobby
