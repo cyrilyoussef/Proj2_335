@@ -5,8 +5,9 @@ Authors: Cyril Youssef, Jonathan Bird, Conrad Chu, Joseph Bobby
 
 # Files 
 project2.py
+output.txt
 input.txt
-readme.txt
+README.md
 
 # Instructions to Run 
 1. In your ide just run project2.py, or in your terminal: "python project2.py".
