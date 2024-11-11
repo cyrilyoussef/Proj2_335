@@ -2,6 +2,8 @@
 Course: CPSC 335 - Algorithm Engineering (Fall 2024)
 
 Authors: Cyril Youssef, Jonathan Bird, Conrad Chu, Joseph Bobby
+: jbobby0@csu.fullerton; cbchu@csu.fullerton.edu; cyrily@csu.fullerton.edu; birdrjonathan@csu.fullerton.edu
+
 
 # Files 
 project2.py
