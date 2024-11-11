@@ -16,5 +16,30 @@ README.md
 2. Follow the prompts and their context in the prompt for user input, in this case hours and minutes.
 3. Available meeting times should appear when you open your "output.txt" file with the command "code output.txt"
 
+# Example Input
+2
 
+9:00 19:00
+
+3
+
+7:00 8:30
+
+12:00 13:00
+
+16:00 18:00
+
+9:00 18:30
+
+4
+
+9:00 10:30
+
+12:20 13:30
+
+14:00 15:00
+
+16:00 17:00
+
+30
 
